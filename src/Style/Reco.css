@@ -1,0 +1,16 @@
+.reco-container {
+    display: 'flex';
+    flex-direction: column;
+    justify-content: center;
+}
+
+.reco-container img {
+    width: 25px;
+    height: 25px;
+}
+
+.cur-pred {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

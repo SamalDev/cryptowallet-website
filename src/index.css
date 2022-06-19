@@ -1,0 +1,16 @@
+body {
+  background-color: whitesmoke;
+  margin: 0;
+  font-family: "Montserrat";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("./Fonts/Montserrat-Regular.ttf");
+}
+
+code {
+  font-family: "Montserrat";
+}
